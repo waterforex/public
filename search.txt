@@ -1,0 +1,65 @@
+Found(
+	my_results=[
+	],
+	results=[
+		PeerChannel(
+			channel_id=1222860884
+		),
+	],
+	chats=[
+		Channel(
+			id=1222860884,
+			title='Group Name',
+			photo=ChatPhoto(
+				photo_small=FileLocationToBeDeprecated(
+					volume_id=857423717,
+					local_id=213081
+				),
+				photo_big=FileLocationToBeDeprecated(
+					volume_id=857423717,
+					local_id=213083
+				),
+				dc_id=5,
+				has_video=False
+			),
+			date=datetime.datetime(2020, 8, 1, 20, 30, 3, tzinfo=datetime.timezone.utc),
+			version=0,
+			creator=False,
+			left=True,
+			broadcast=False,
+			verified=False,
+			megagroup=True,
+			restricted=False,
+			signatures=False,
+			min=False,
+			scam=False,
+			has_link=False,
+			has_geo=False,
+			slowmode_enabled=False,
+			access_hash=-3166842933092770263,
+			username='groupnamee',
+			restriction_reason=[
+			],
+			admin_rights=None,
+			banned_rights=None,
+			default_banned_rights=ChatBannedRights(
+				until_date=datetime.datetime(2038, 1, 19, 3, 14, 7, tzinfo=datetime.timezone.utc),
+				view_messages=False,
+				send_messages=False,
+				send_media=False,
+				send_stickers=False,
+				send_gifs=False,
+				send_games=False,
+				send_inline=False,
+				embed_links=False,
+				send_polls=False,
+				change_info=True,
+				invite_users=False,
+				pin_messages=True
+			),
+			participants_count=15
+		),
+	],
+	users=[
+	]
+)
